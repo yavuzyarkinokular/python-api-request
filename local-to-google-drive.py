@@ -14,7 +14,7 @@ for i in range(0, dosya_adi):
     ready_to_exit = dosyaAd + str(secilmiskisi)
 
 headers = {
-    "Authorization": "Bearer ya29.a0ARrdaM_SX9mgZpHYBYBVCuoZ354VMchx71KdszQ13I-h_XVbv8ApTBSg4yMnFG_KtfN147MtXQQZr1D6_EXlQwtHJjORAr7vJmTGSrdDLTdPiPqhJU_CgX2xlNtcvy_a1Ex4FA9JNhFyhrhbzuM6yOPqqCH-"
+    "Authorization": "Bearer apı_key"
 }
 para = {
     "name": ready_to_exit,
